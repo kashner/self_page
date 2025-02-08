@@ -4,6 +4,7 @@
 - Мне 40 годиков
 - Хочу научиться читать чужой код
   
-### Так я выглядел... когда-то:
+### Так я ~~выгляжу~~ выглядел... когда-то:
 
-![](/img/kashnerok.jpg)
+[comment]:![kashnerok](/img/kashnerok.jpg)
+<img src="img/kashnerok.jpg" alt="kashnerok" width="300" height="auto">
